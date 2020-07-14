@@ -5,6 +5,6 @@
 #      \033[m
 #       \033[7;30m
 
-print('\033[31;43mOlá, mundo')
+print('\033[31 ;43mOlá, mundo')
 
 # O IDL AINDA NÃO SUPORTA RODAR ESSES COMANDOS!!

@@ -6,7 +6,7 @@ for cont in range(1, 6):
     print('------------ {}° Pessoa ------------'.format(cont))
     nome = str(input('Qual é seu nome: ')).upper().strip()
     idade = int(input('Qual a sua idade: '))
-    sexo = str(input('Maculino [M] Feminino [F]: ')).strip().upper()
+    sexo = str(input('Masculino [M] Feminino [F]: ')).strip().upper()
     somaidade += idade
     if cont == 1 and sexo in 'Mm':
         idve = idade

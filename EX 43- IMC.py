@@ -14,7 +14,7 @@ elif imc > 25 and imc < 30:
     print('Sobre peso!')
 
 elif imc > 30 and imc < 40:
-    print('Obsidade!!')
+    print('Obesidade!!')
 
 else:
     print('Obesidade Mórbida!!!')

@@ -5,7 +5,7 @@ for c in range(1, num + 1):
         print('*', end='')
         tot += 1
     print('{} '.format(c), end='')
-print('  São primos um total de {} numeros!'.format(tot))
+print('  São primos um total de {} números!'.format(tot))
 
 
 # num = int(input('Digite um numero: '))

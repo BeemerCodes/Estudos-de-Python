@@ -6,7 +6,7 @@ num = int(input('Qual ano de nascimento? '))
 idade = atual - num
 
 if idade <= 9:
-    print('Nadador Classe MIRIM!')
+    print('Nadador Classe MIRIN!')
 
 elif idade > 9 and idade <= 14:
     print('Nadador Classe INFANTIL!')

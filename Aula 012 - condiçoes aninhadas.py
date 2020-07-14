@@ -6,4 +6,4 @@ elif nome == 'joão' or nome == 'maria' or nome == 'paulo':
 else:
     print('Que nome sem graça!')
      
-print('tenha um otimo dia, {}!'.format(nome))
+print('tenha um ótimo dia, {}!'.format(nome))

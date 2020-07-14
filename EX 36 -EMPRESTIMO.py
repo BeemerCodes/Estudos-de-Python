@@ -9,7 +9,7 @@ porc = 30 * sala / 100
 
 if porc >= prest:
     print('Emprestimo aprovado!')
-    print('Seu valor disponivel para uso é de {}'.format(porc))
+    print('Seu valor disponível para uso é de {}'.format(porc))
 
 elif porc <= prest:
     print('Emprestimo negado!')
