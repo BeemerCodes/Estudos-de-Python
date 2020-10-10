@@ -1,8 +1,4 @@
----
-
----
-
-
+## Estudos de python 🐍
 
 
 
